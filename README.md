@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @gbfeliped
-- 👀 I’m interested in FullStack (Backend is better, dont tell anyone)
+- 👀 I’m interested in FullStack
 - 🌱 I’m currently learning Flutter
 - 📫 How to reach me on linkedin [gbfeliped](https://www.linkedin.com/in/gbfeliped/)
 
